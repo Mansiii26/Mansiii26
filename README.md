@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning and exploring Data Analytics, Power BI, Python, and real-world data projects<br><br>👯 I’m interested in collaborating on beginner-friendly analytics and visualization projects<br><br>🤝 I’m looking to improve my practical skills through projects, internships, and hands-on learning<br><br>💬 Ask me about Power BI dashboards, Python basics, and data visualization projects<br><br>⚡ Fun fact: I enjoy working on projects where data can be converted into simple and useful insights
+I’m a pre-final year B.Tech IT student interested in Data Analytics, Power BI, Python, and real-world data projects. I enjoy building dashboards and analytics projects that help turn raw data into meaningful insights. Currently, I’m focusing on improving my practical skills through hands-on projects, internships, and continuous learning.
 
 
 ## 🌐 Socials:
